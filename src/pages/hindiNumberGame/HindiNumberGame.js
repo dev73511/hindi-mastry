@@ -1,6 +1,5 @@
 import React from "react"
 import Body from "../../layout/Body"
-import Footer from "../../layout/Footer"
 import Nav from "../../layout/Nav"
 import HindiNumberGame from "../../modules/hindiNumberGame"
 
@@ -11,7 +10,6 @@ const HindiNumberGamePage = () => {
             <Body>
                 <HindiNumberGame />
             </Body>
-            {/* <Footer /> */}
         </React.Fragment>
 
     )

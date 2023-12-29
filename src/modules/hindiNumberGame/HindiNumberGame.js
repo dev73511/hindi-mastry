@@ -3,7 +3,7 @@ import { v4 as uuidv4 } from 'uuid';
 
 import toast from 'react-hot-toast';
 
-import { Formik, Field, FieldArray, Form } from 'formik';
+import { Formik, FieldArray } from 'formik';
 import * as Yup from 'yup';
 
 import { numberToWord } from "../../shared/utils/numberToWord"
@@ -18,8 +18,6 @@ import RestrickTabSwitch from "../../shared/components/restrictTabSwitch/Restric
 
 const HindiNumberGame = () => {
     const [numbers, setNumbers] = useState([]);
-    const [isAllAnswersCorrect, setIsAllAnsersCorrect] = useState(null);
-    const [userGiveAnswer, setUserGivenAnser] = useState([]);
 
     const generateNumbers = () => {
         try {
@@ -69,9 +67,6 @@ const HindiNumberGame = () => {
             })
             const checker = result.every(v => v === true);
 
-            //setIsAllAnsersCorrect((prev) => checker);
-            //setUserGivenAnser((prev) => numbresItem);
-
             if (checker === true) {
                 answerIsCorrect()
             } else {
@@ -118,7 +113,6 @@ const HindiNumberGame = () => {
                         validationSchema={validationSchema}
                         onSubmit={(values) => {
                             // Handle form submission
-                            console.log("submit values")
                             validateAnswer(values);
                         }}
                     >
