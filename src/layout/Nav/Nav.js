@@ -4,7 +4,7 @@ import { Bars3Icon, BellIcon, XMarkIcon } from '@heroicons/react/24/outline'
 import { Link, useLocation  } from "react-router-dom"
 
 const navigation = [
-  { name: 'Hinid Numbers', href: '/', current: false },
+  { name: 'Hindi Numbers', href: '/', current: false },
   { name: 'Vowels (स्वर)', href: '/hindi-vowels', current: false },
   { name: 'Consonants (व्यंजन)', href: '/hindi-consonants', current: false },
   { name: 'Number Game', href: '/hindi-number-game', current: false },

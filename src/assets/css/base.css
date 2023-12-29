@@ -1,8 +1,8 @@
 body {
-    font-family: system-ui, -apple-system, sans-serif, "basetica-regular";
+    font-family: "basetica-regular", system-ui, -apple-system, sans-serif;
     letter-spacing: 0.2px;
     background-color: #1e293b;
-    background-image: url("https://tailwindcss.com/_next/static/media/hero-dark@90.dba36cdf.jpg");
+    background-image: url("../images/hero-dark.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;

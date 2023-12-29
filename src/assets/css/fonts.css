@@ -1,19 +1,23 @@
 @font-face {
     font-family: 'basetica-regular';
     src: url("../font/basetica-regular.ttf") format("truetype");
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'basetica-bold';
     src: url("../font/basetica-bold.ttf") format("truetype");
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'basetica-medium';
     src: url("../font/basetica-medium.ttf") format("truetype");
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'basetica-thin';
     src: url("../font/basetica-thin.ttf") format("truetype");
+    font-display: swap;
 }
