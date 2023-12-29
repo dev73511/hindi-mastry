@@ -1,6 +1,4 @@
-import React, { useCallback, useEffect, useState } from "react";
-import { useSpeechSynthesis } from 'react-speech-kit'
-
+import React from "react";
 import NumberList from "../../../../shared/components/numberList/NumberList";
 
 const HindiNumbers = () => {
