@@ -1,0 +1,602 @@
+[
+    {
+        "id": "your_uuid_here",
+        "number": 1,
+        "english": "One",
+        "hindi": "एक"
+    },
+    {
+        "id": "another_uuid_here",
+        "number": 2,
+        "english": "Two",
+        "hindi": "दो"
+    },
+    {
+        "id": "uuid_3",
+        "number": 3,
+        "english": "Three",
+        "hindi": "तीन"
+    },
+    {
+        "id": "uuid_4",
+        "number": 4,
+        "english": "Four",
+        "hindi": "चार"
+    },
+    {
+        "id": "uuid_5",
+        "number": 5,
+        "english": "Five",
+        "hindi": "पाँच"
+    },
+    {
+        "id": "uuid_6",
+        "number": 6,
+        "english": "Six",
+        "hindi": "छह"
+    },
+    {
+        "id": "uuid_7",
+        "number": 7,
+        "english": "Seven",
+        "hindi": "सात"
+    },
+    {
+        "id": "uuid_8",
+        "number": 8,
+        "english": "Eight",
+        "hindi": "आठ"
+    },
+    {
+        "id": "uuid_9",
+        "number": 9,
+        "english": "Nine",
+        "hindi": "नौ"
+    },
+    {
+        "id": "uuid_10",
+        "number": 10,
+        "english": "Ten",
+        "hindi": "दस"
+    },
+    {
+        "id": "uuid_11",
+        "number": 11,
+        "english": "Eleven",
+        "hindi": "ग्यारह"
+    },
+    {
+        "id": "uuid_12",
+        "number": 12,
+        "english": "Twelve",
+        "hindi": "बारह"
+    },
+    {
+        "id": "uuid_13",
+        "number": 13,
+        "english": "Thirteen",
+        "hindi": "तेरह"
+    },
+    {
+        "id": "uuid_14",
+        "number": 14,
+        "english": "Fourteen",
+        "hindi": "चौदह"
+    },
+    {
+        "id": "uuid_15",
+        "number": 15,
+        "english": "Fifteen",
+        "hindi": "पंद्रह"
+    },
+    {
+        "id": "uuid_16",
+        "number": 16,
+        "english": "Sixteen",
+        "hindi": "सोलह"
+    },
+    {
+        "id": "uuid_17",
+        "number": 17,
+        "english": "Seventeen",
+        "hindi": "सत्रह"
+    },
+    {
+        "id": "uuid_18",
+        "number": 18,
+        "english": "Eighteen",
+        "hindi": "अठारह"
+    },
+    {
+        "id": "uuid_19",
+        "number": 19,
+        "english": "Nineteen",
+        "hindi": "उन्नीस"
+    },
+    {
+        "id": "uuid_20",
+        "number": 20,
+        "english": "Twenty",
+        "hindi": "बीस"
+    },
+    {
+        "id": "uuid_21",
+        "number": 21,
+        "english": "Twenty-One",
+        "hindi": "इकीस"
+    },
+    {
+        "id": "uuid_22",
+        "number": 22,
+        "english": "Twenty-Two",
+        "hindi": "बाईस"
+    },
+    {
+        "id": "uuid_23",
+        "number": 23,
+        "english": "Twenty-Three",
+        "hindi": "तेइस"
+    },
+    {
+        "id": "uuid_24",
+        "number": 24,
+        "english": "Twenty-Four",
+        "hindi": "चौबीस"
+    },
+    {
+        "id": "uuid_25",
+        "number": 25,
+        "english": "Twenty-Five",
+        "hindi": "पच्चीस"
+    },
+    {
+        "id": "uuid_26",
+        "number": 26,
+        "english": "Twenty-Six",
+        "hindi": "छब्बीस"
+    },
+    {
+        "id": "uuid_27",
+        "number": 27,
+        "english": "Twenty-Seven",
+        "hindi": "सत्ताईस"
+    },
+    {
+        "id": "uuid_28",
+        "number": 28,
+        "english": "Twenty-Eight",
+        "hindi": "अट्ठाईस"
+    },
+    {
+        "id": "uuid_29",
+        "number": 29,
+        "english": "Twenty-Nine",
+        "hindi": "उनतीस"
+    },
+    {
+        "id": "uuid_30",
+        "number": 30,
+        "english": "Thirty",
+        "hindi": "तीस"
+    },
+    {
+        "id": "uuid_31",
+        "number": 31,
+        "english": "Thirty-One",
+        "hindi": "इकतीस"
+    },
+    {
+        "id": "uuid_32",
+        "number": 32,
+        "english": "Thirty-Two",
+        "hindi": "बत्तीस"
+    },
+    {
+        "id": "uuid_33",
+        "number": 33,
+        "english": "Thirty-Three",
+        "hindi": "तैंतीस"
+    },
+    {
+        "id": "uuid_34",
+        "number": 34,
+        "english": "Thirty-Four",
+        "hindi": "चौंतीस"
+    },
+    {
+        "id": "uuid_35",
+        "number": 35,
+        "english": "Thirty-Five",
+        "hindi": "पैंतीस"
+    },
+    {
+        "id": "uuid_36",
+        "number": 36,
+        "english": "Thirty-Six",
+        "hindi": "छत्तीस"
+    },
+    {
+        "id": "uuid_37",
+        "number": 37,
+        "english": "Thirty-Seven",
+        "hindi": "सैंतीस"
+    },
+    {
+        "id": "uuid_38",
+        "number": 38,
+        "english": "Thirty-Eight",
+        "hindi": "अड़तीस"
+    },
+    {
+        "id": "uuid_39",
+        "number": 39,
+        "english": "Thirty-Nine",
+        "hindi": "उनतालीस"
+    },
+    {
+        "id": "uuid_40",
+        "number": 40,
+        "english": "Forty",
+        "hindi": "चालीस"
+    },
+    {
+        "id": "uuid_41",
+        "number": 41,
+        "english": "Forty-One",
+        "hindi": "इकतालीस"
+    },
+    {
+        "id": "uuid_42",
+        "number": 42,
+        "english": "Forty-Two",
+        "hindi": "बायालीस"
+    },
+    {
+        "id": "uuid_43",
+        "number": 43,
+        "english": "Forty-Three",
+        "hindi": "तैंतालीस"
+    },
+    {
+        "id": "uuid_44",
+        "number": 44,
+        "english": "Forty-Four",
+        "hindi": "चौवालीस"
+    },
+    {
+        "id": "uuid_45",
+        "number": 45,
+        "english": "Forty-Five",
+        "hindi": "पैंतालीस"
+    },
+    {
+        "id": "uuid_46",
+        "number": 46,
+        "english": "Forty-Six",
+        "hindi": "छियालीस"
+    },
+    {
+        "id": "uuid_47",
+        "number": 47,
+        "english": "Forty-Seven",
+        "hindi": "सैंतालीस"
+    },
+    {
+        "id": "uuid_48",
+        "number": 48,
+        "english": "Forty-Eight",
+        "hindi": "अड़तालीस"
+    },
+    {
+        "id": "uuid_49",
+        "number": 49,
+        "english": "Forty-Nine",
+        "hindi": "उनचास"
+    },
+    {
+        "id": "uuid_50",
+        "number": 50,
+        "english": "Fifty",
+        "hindi": "पचास"
+    },
+    {
+        "id": "uuid_51",
+        "number": 51,
+        "english": "Fifty-One",
+        "hindi": "इक्यावन"
+    },
+    {
+        "id": "uuid_52",
+        "number": 52,
+        "english": "Fifty-Two",
+        "hindi": "बावन"
+    },
+    {
+        "id": "uuid_53",
+        "number": 53,
+        "english": "Fifty-Three",
+        "hindi": "तिरेपन"
+    },
+    {
+        "id": "uuid_54",
+        "number": 54,
+        "english": "Fifty-Four",
+        "hindi": "चौबन"
+    },
+    {
+        "id": "uuid_55",
+        "number": 55,
+        "english": "Fifty-Five",
+        "hindi": "पचपन"
+    },
+    {
+        "id": "uuid_56",
+        "number": 56,
+        "english": "Fifty-Six",
+        "hindi": "छप्पन"
+    },
+    {
+        "id": "uuid_57",
+        "number": 57,
+        "english": "Fifty-Seven",
+        "hindi": "सत्तावन"
+    },
+    {
+        "id": "uuid_58",
+        "number": 58,
+        "english": "Fifty-Eight",
+        "hindi": "अठावन"
+    },
+    {
+        "id": "uuid_59",
+        "number": 59,
+        "english": "Fifty-Nine",
+        "hindi": "उनसठ"
+    },
+    {
+        "id": "uuid_60",
+        "number": 60,
+        "english": "Sixty",
+        "hindi": "साठ"
+    },
+    {
+        "id": "uuid_61",
+        "number": 61,
+        "english": "Sixty-One",
+        "hindi": "इकसठ"
+    },
+    {
+        "id": "uuid_62",
+        "number": 62,
+        "english": "Sixty-Two",
+        "hindi": "बासठ"
+    },
+    {
+        "id": "uuid_63",
+        "number": 63,
+        "english": "Sixty-Three",
+        "hindi": "तिरसठ"
+    },
+    {
+        "id": "uuid_64",
+        "number": 64,
+        "english": "Sixty-Four",
+        "hindi": "चौंसठ"
+    },
+    {
+        "id": "uuid_65",
+        "number": 65,
+        "english": "Sixty-Five",
+        "hindi": "पैंसठ"
+    },
+    {
+        "id": "uuid_66",
+        "number": 66,
+        "english": "Sixty-Six",
+        "hindi": "छियासठ"
+    },
+    {
+        "id": "uuid_67",
+        "number": 67,
+        "english": "Sixty-Seven",
+        "hindi": "सतासठ"
+    },
+    {
+        "id": "uuid_68",
+        "number": 68,
+        "english": "Sixty-Eight",
+        "hindi": "अड़सठ"
+    },
+    {
+        "id": "uuid_69",
+        "number": 69,
+        "english": "Sixty-Nine",
+        "hindi": "उनहत्तर"
+    },
+    {
+        "id": "uuid_70",
+        "number": 70,
+        "english": "Seventy",
+        "hindi": "सत्तासी"
+    },
+    {
+        "id": "uuid_71",
+        "number": 71,
+        "english": "Seventy-One",
+        "hindi": "इकहत्तर"
+    },
+    {
+        "id": "uuid_72",
+        "number": 72,
+        "english": "Seventy-Two",
+        "hindi": "बहत्तर"
+    },
+    {
+        "id": "uuid_73",
+        "number": 73,
+        "english": "Seventy-Three",
+        "hindi": "तिहत्तर"
+    },
+    {
+        "id": "uuid_74",
+        "number": 74,
+        "english": "Seventy-Four",
+        "hindi": "चौहत्तर"
+    },
+    {
+        "id": "uuid_75",
+        "number": 75,
+        "english": "Seventy-Five",
+        "hindi": "पचहत्तर"
+    },
+    {
+        "id": "uuid_76",
+        "number": 76,
+        "english": "Seventy-Six",
+        "hindi": "छिहत्तर"
+    },
+    {
+        "id": "uuid_77",
+        "number": 77,
+        "english": "Seventy-Seven",
+        "hindi": "सत्तहत्तर"
+    },
+    {
+        "id": "uuid_78",
+        "number": 78,
+        "english": "Seventy-Eight",
+        "hindi": "अठहत्तर"
+    },
+    {
+        "id": "uuid_79",
+        "number": 79,
+        "english": "Seventy-Nine",
+        "hindi": "उनासी"
+    },
+    {
+        "id": "uuid_80",
+        "number": 80,
+        "english": "Eighty",
+        "hindi": "अस्सी"
+    },
+    {
+        "id": "uuid_81",
+        "number": 81,
+        "english": "Eighty-One",
+        "hindi": "इक्यासी"
+    },
+    {
+        "id": "uuid_82",
+        "number": 82,
+        "english": "Eighty-Two",
+        "hindi": "बयासी"
+    },
+    {
+        "id": "uuid_83",
+        "number": 83,
+        "english": "Eighty-Three",
+        "hindi": "तिरासी"
+    },
+    {
+        "id": "uuid_84",
+        "number": 84,
+        "english": "Eighty-Four",
+        "hindi": "चौरासी"
+    },
+    {
+        "id": "uuid_85",
+        "number": 85,
+        "english": "Eighty-Five",
+        "hindi": "पचासी"
+    },
+    {
+        "id": "uuid_for_86",
+        "number": 86,
+        "english": "Eighty-Six",
+        "hindi": "छब्बीस"
+    },
+    {
+        "id": "uuid_for_87",
+        "number": 87,
+        "english": "Eighty-Seven",
+        "hindi": "सत्तासी"
+    },
+    {
+        "id": "uuid_for_88",
+        "number": 88,
+        "english": "Eighty-Eight",
+        "hindi": "अठासी"
+    },
+    {
+        "id": "uuid_for_89",
+        "number": 89,
+        "english": "Eighty-Nine",
+        "hindi": "नवासी"
+    },
+    {
+        "id": "uuid_for_90",
+        "number": 90,
+        "english": "Ninety",
+        "hindi": "नब्बे"
+    },
+    {
+        "id": "uuid_for_91",
+        "number": 91,
+        "english": "Ninety-One",
+        "hindi": "इक्यानवे"
+    },
+    {
+        "id": "uuid_for_92",
+        "number": 92,
+        "english": "Ninety-Two",
+        "hindi": "बानवे"
+    },
+    {
+        "id": "uuid_for_93",
+        "number": 93,
+        "english": "Ninety-Three",
+        "hindi": "तिरानवे"
+    },
+    {
+        "id": "uuid_for_94",
+        "number": 94,
+        "english": "Ninety-Four",
+        "hindi": "चौरानवे"
+    },
+    {
+        "id": "uuid_for_95",
+        "number": 95,
+        "english": "Ninety-Five",
+        "hindi": "पचानवे"
+    },
+    {
+        "id": "uuid_for_96",
+        "number": 96,
+        "english": "Ninety-Six",
+        "hindi": "छियानवे"
+    },
+    {
+        "id": "uuid_for_97",
+        "number": 97,
+        "english": "Ninety-Seven",
+        "hindi": "सत्तानवे"
+    },
+    {
+        "id": "uuid_for_98",
+        "number": 98,
+        "english": "Ninety-Eight",
+        "hindi": "अठानवे"
+    },
+    {
+        "id": "uuid_for_99",
+        "number": 99,
+        "english": "Ninety-Nine",
+        "hindi": "निन्यानवे"
+    },
+    {
+        "id": "uuid_for_100",
+        "number": 100,
+        "english": "One Hundred",
+        "hindi": "सौ"
+    }
+]

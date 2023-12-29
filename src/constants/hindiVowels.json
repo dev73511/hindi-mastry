@@ -1,0 +1,67 @@
+[
+    {
+        "id": 1,
+        "akshar":  "अ",
+        "aksharInEnglish": "a"
+    },
+    {
+        "id": 2,
+        "akshar":  "आ",
+        "aksharInEnglish": "aa"
+    },
+    {
+        "id":3,
+        "akshar":  "इ",
+        "aksharInEnglish": "e"
+    },
+    {
+        "id":4,
+        "akshar":  "इ",
+        "aksharInEnglish": "e"
+    },
+    {
+        "id":5,
+        "akshar":  "ई",
+        "aksharInEnglish": "ee"
+    },
+    {
+        "id":6,
+        "akshar":  "उ",
+        "aksharInEnglish": "u"
+    },
+    {
+        "id":7,
+        "akshar":  "ऊ",
+        "aksharInEnglish": "oo"
+    },
+    {
+        "id":8,
+        "akshar":  "ए",
+        "aksharInEnglish": "a"
+    },
+    {
+        "id":9,
+        "akshar":  "ऐ",
+        "aksharInEnglish": "ae"
+    },
+    {
+        "id":10,
+        "akshar":  "ओ",
+        "aksharInEnglish": "o"
+    },
+    {
+        "id":11,
+        "akshar":  "औ",
+        "aksharInEnglish": "ao"
+    },
+    {
+        "id":12,
+        "akshar":  "अं",
+        "aksharInEnglish": "am"
+    },
+    {
+        "id":13,
+        "akshar":  "अः",
+        "aksharInEnglish": "aha"
+    }
+]
