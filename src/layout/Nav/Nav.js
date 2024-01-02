@@ -7,6 +7,7 @@ import Logo from "../../assets/images/logo.png"
 
 const navigation = [
   { name: 'Hindi Numbers', href: '/', current: false },
+  { name: 'Hindi Directions', href: '/hindi-directions', current: false },
   { name: 'Vowels (स्वर)', href: '/hindi-vowels', current: false },
   { name: 'Consonants (व्यंजन)', href: '/hindi-consonants', current: false },
   { name: 'Number Game', href: '/hindi-number-game', current: false },
