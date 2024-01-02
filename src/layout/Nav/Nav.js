@@ -3,6 +3,8 @@ import { Disclosure, Menu, Transition } from '@headlessui/react'
 import { Bars3Icon, BellIcon, XMarkIcon } from '@heroicons/react/24/outline'
 import { Link, useLocation  } from "react-router-dom"
 
+import Logo from "../../assets/images/logo.png"
+
 const navigation = [
   { name: 'Hindi Numbers', href: '/', current: false },
   { name: 'Vowels (स्वर)', href: '/hindi-vowels', current: false },
@@ -49,11 +51,12 @@ function Nav() {
                   >
 
                     <img
-                      className="h-8 w-auto"
-                      src="https://tailwindui.com/img/logos/mark.svg?color=indigo&shade=500"
+                      className="h-6 w-auto "
+                      src={Logo}
                       alt="Hindi Mastery"
+                      
                     />
-                    <p className='mb-0 text-gray-200 ml-2 font-bold text-xl'>हिंदी मास्टरी</p>
+                    <p className='mb-0 text-gray-200 ml-2 font-bold text-sm hidden md:block lg:block xl:block 2xl:block'>हिंदी मास्टरी</p>
                   </Link>
                 </div>
                 <div className="hidden sm:ml-6 sm:block">
