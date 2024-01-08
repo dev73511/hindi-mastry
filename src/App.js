@@ -1,4 +1,5 @@
 import { Analytics } from '@vercel/analytics/react';
+import { SpeedInsights } from "@vercel/speed-insights/next"
 import './assets/css/root.css';
 import Home from './pages/home';
 
@@ -31,6 +32,7 @@ function App() {
     <>
       <RouterProvider router={router} />
       <Analytics />
+      <SpeedInsights />
     </>
   );
 }
