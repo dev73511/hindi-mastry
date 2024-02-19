@@ -14,6 +14,7 @@ import HindiVowels from './pages/hindiVowels';
 import HindiConsonants from './pages/hindiConsonants';
 import HindiNumberGame from './pages/hindiNumberGame';
 import HindiDirections from './pages/hindiDirections';
+import HindiMonths from './pages/hindiMonths';
 
 const router = createBrowserRouter(
   createRoutesFromElements(
@@ -23,6 +24,7 @@ const router = createBrowserRouter(
       <Route path='/hindi-consonants' element={<HindiConsonants />} />
       <Route path='/hindi-directions' element={<HindiDirections />} />
       <Route path='/hindi-number-game' element={<HindiNumberGame />} />
+      <Route path='/hindi-months' element={<HindiMonths />} />
     </Route>
   )
 )

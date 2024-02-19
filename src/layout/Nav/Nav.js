@@ -11,6 +11,7 @@ const navigation = [
   { name: 'Vowels (स्वर)', href: '/hindi-vowels', current: false },
   { name: 'Consonants (व्यंजन)', href: '/hindi-consonants', current: false },
   { name: 'Number Game', href: '/hindi-number-game', current: false },
+  { name: 'Hindi Months', href: '/hindi-months', current: false },
 ]
 
 function classNames(...classes) {
